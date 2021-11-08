@@ -1,0 +1,2 @@
+[![Build Status](https://app.travis-ci.com/MikhailPushkarev25/store.svg?branch=master)](https://app.travis-ci.com/MikhailPushkarev25/store)
+[![codecov](https://codecov.io/gh/MikhailPushkarev25/store/branch/master/graph/badge.svg?token=WJqYphkxpU)](https://codecov.io/gh/MikhailPushkarev25/store)
