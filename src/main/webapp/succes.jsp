@@ -19,33 +19,17 @@
     <style type="text/css">
         body{
             margin: 0;
-            background-image: url(images/4.jpg);
+            background-image: url(images/9.jpg);
             background-repeat: no-repeat;
         }
     </style>
-    <title>Работа мечты</title>
+    <title>Интернет магазин</title>
 </head>
 <body>
-<div class="container">
-    <div class="row">
-        <ul class="nav">
-            <li class="nav-item">
-                <a class="nav-link" href="<%=request.getContextPath()%>/posts.do">Заказы клиентов</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="<%=request.getContextPath()%>/post/edit.jsp">Добавить заказ</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="<%=request.getContextPath()%>/login.jsp">Войти</a>
-            </li>
-        </ul>
-    </div>
-    <div class="row">
+
         <div class="card" style="width: 100%">
-            <div class="card-header">
-                Интернет магазин товаров
-            </div>
-    </div>
-</div>
+            <h1>Вы приобрели наш товар, ожидайте, наш сотрудник с вами свяжется!</h1>
+        </div>
+
 </body>
 </html>
